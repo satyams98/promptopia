@@ -1,4 +1,8 @@
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+Proptopia is a next js 14 based project which can be used to store AI prompts from multiple users and then can be searched to get the creativity flowing and make the full use of Generative AI.
+This project uses Next-auth, for authentication so that user can directly login in to the app, and for DB, it uses Mongo Atlas.
+This App has also been delpoyed on Vercel.
+This App was created to get the basic understanding of Next js's Auth, rendering types in next js namely- Server-side Rendering (SSR), Client-side Rendering (CSR), Server-side Generation (SSG), and Incremental Static Regeneration (ISR)
 
 ## Getting Started
 
